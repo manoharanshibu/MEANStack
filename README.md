@@ -206,3 +206,5 @@ In your preferred text editor, open or create a ~/.profile file and add this lin
 On the command line, update your system variables:
  source ~/.profile
 To test your new configuration, install 
+
+#incomplete
